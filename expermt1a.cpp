@@ -1,4 +1,4 @@
-// student management system
+//Analyse and design classes for student management system
 #include<iostream>
 using namespace std;
 class Student
